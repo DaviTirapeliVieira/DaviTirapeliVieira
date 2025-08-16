@@ -2,11 +2,11 @@
 
 **`System Development Student`**
 
-Oi! Eu sou o Davi Tirapeli Vieira, mas no mundo digital muita gente me conhece como Netuno 🌊💻. Tenho 17 anos, sou do estado de São Paulo e atualmente estudo Desenvolvimento de Sistemas na Etec. Sou apaixonado por tecnologia, adoro aprender coisas novas e sempre busco evoluir, seja nos estudos, em projetos ou nos games. 🚀
+Hi! I'm Davi Tirapeli Vieira, but in the digital world, many people know me as Netuno 🌊💻. I'm 17 years old, from the state of São Paulo, and I’m currently studying Systems Development at Etec. I'm passionate about technology, love learning new things, and always strive to grow—whether in my studies, projects, or gaming. 🚀
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -60,7 +60,7 @@ Oi! Eu sou o Davi Tirapeli Vieira, mas no mundo digital muita gente me conhece c
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -68,14 +68,14 @@ Oi! Eu sou o Davi Tirapeli Vieira, mas no mundo digital muita gente me conhece c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DaviTirapeliVieira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DaviTirapeliVieira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="260" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTirapeliVieira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTirapeliVieira&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
