@@ -1,8 +1,8 @@
 # 😎 Davi Tirapeli Vieira
 
-**`System Development Student`**
+**`Computer Science Student`**
 
-Hi! I'm Davi Tirapeli Vieira, but in the digital world, many people know me as Netuno 🌊💻. I'm 17 years old, from the state of São Paulo, and I’m currently studying Systems Development at Etec. I'm passionate about technology, love learning new things, and always strive to grow—whether in my studies, projects, or gaming. 🚀
+Hi! My name is Davi Tirapeli Vieira, but in the digital world, many know me as Netuno 🌊💻. I'm 18 years old, from the state of São Paulo, and I'm currently studying Computer Science at UTFPR. I'm passionate about technology, I love learning new things, and I'm always looking to grow—whether in my studies, projects, or games. 🚀
 
 ---
 
